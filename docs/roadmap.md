@@ -44,7 +44,7 @@ nudge scenario crashes the GPU compositor; the open area issues' checklists (#20
 almost entirely missing or partial.
 
 2026-10-07: UI Font Size now applies to interface text, including CJK fallbacks, independently
-of display and canvas zoom (#532). The current preference audit drops from 60 to 59 unread
+of display and canvas zoom (#532). The current preference audit drops from 59 to 58 unread
 settings out of 135; see the regenerated scorecard.
 
 **Bottom line.** Two days after 0.2.0 we had merged ~96 PRs and closed ~48 issues, but **real
